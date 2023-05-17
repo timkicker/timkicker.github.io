@@ -1,0 +1,53 @@
+#title in header
+title: "Hello World."
+
+#main info
+#owner
+owner: "I am Tim J. Kicker"
+email: tim.kicker@protonmail.com
+info: "A student and developer from Austria 🇦🇹"
+#description
+desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+
+#menu
+menu:
+  Blog: /archives
+  About: /About
+
+#index/main page max show posts (in number)
+max_post: 4
+
+# Colors use hex color without #
+# Theme color
+tcolor: 0FA0CE
+
+# Define path to user css
+#(could be also located outside of theme)
+# Relative to source/ directory
+usercss: css/user.css
+
+# social profile at the footer/bottom
+footer: true
+placename: Earth
+placelink: https://en.wikipedia.org/wiki/Earth
+github: https://github.com/timkicker
+linkedin: https://www.linkedin.com/in/tim-kicker-5438b1237/
+#twitter: https://twitter.com/adisaktijrs
+#instagram: https://instagram.com/adisaktijrs
+
+# Misc
+nanobar: /js/nanobar.min.js
+switch_light: ☀️
+switch_dark: 🌑
+
+# favicon
+favicon: /images/teddy-bear-apple.webp
+# thumbnail
+thumbnail: /images/teddy-bear-apple.webp
+
+article:
+  thumbnail: true
+
+# DISQUS comments (sign up to Disqus to get disqus_shortname)
+disqus_enabled: false
+disqus_shortname: https-tim-kicker
