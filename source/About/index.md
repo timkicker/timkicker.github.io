@@ -16,18 +16,18 @@ And since I find it difficult to describe myself in sentences, I'll just throw s
 var tK = new Person("Tim","Kicker");
 
 tK.State = "Austria";
-tk.Interests = {"Linux","Selfhosting","Vinyl",
+tK.Interests = {"Linux","Selfhosting","Vinyl",
                 "Data curation",
                 "Privacy (Datnschützr würd ma sega)"};
 
-tk.FavGames = {"Half-Life 2",
+tK.FavGames = {"Half-Life 2",
                "Lego Universe",
                "Far Cry 3",
                "Portal 2"};
 
-tk.FavLang = "CSharp";
-tk.LeastFavLang = "JS";
-tk.FavColor = "Black (If that's a color??)";
+tK.FavLang = "CSharp";
+tK.LeastFavLang = "JS";
+tK.FavColor = "Black (If that's a color??)";
 
 {% endcodeblock %}
 
@@ -37,3 +37,9 @@ tk.FavColor = "Black (If that's a color??)";
 Feel free to leave me a message! (github, mail, blog-comment,...)
 
 c:
+
+<!--
+<div class="text-center mb-4">
+  <img src="https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg" alt="apictureofme" width="350" height="200" />
+</div>
+-->

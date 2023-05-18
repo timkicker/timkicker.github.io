@@ -31,8 +31,8 @@ footer: true
 placename: opensource
 placelink: https://github.com/timkicker/timkicker.github.io
 github: https://github.com/timkicker
+twitter: https://twitter.com/timjkicker/
 linkedin: https://www.linkedin.com/in/tim-kicker-5438b1237/
-#twitter: https://twitter.com/adisaktijrs
 #instagram: https://instagram.com/adisaktijrs
 
 # Misc
@@ -49,5 +49,5 @@ article:
   thumbnail: true
 
 # DISQUS comments (sign up to Disqus to get disqus_shortname)
-disqus_enabled: false
-disqus_shortname: https-tim-kicker
+disqus_enabled: true
+disqus_shortname: tim-kicker-dev
