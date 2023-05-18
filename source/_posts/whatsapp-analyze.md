@@ -9,11 +9,11 @@ I am a huge fan of gathering, analyzing and evaluating data. Creating statistics
 
 For example, let’s look at the two weekday-graphs of two different WhatsApp-chats of mine.
 
-**Hours Chat A**
+**Weekdays Chat A**
 
 {% asset_img hourchartA.png %}
 
-**Hours Chat B**
+**Weekdays Chat B**
 
 {% asset_img hourchartB.png %}
 
@@ -23,14 +23,14 @@ You can see that it is possible to gather connections and create assumptions abo
 
 
 
-**Days Chat A**
+**Days-Heatmap Chat A**
 
 {% asset_img heatmapA.png This is an example image %}
 
 
 How interesting. We can see that the group is most active between the end of January till May and spikes again in October. If you happen to live in Austria, you probably now what that means. See most Austrian summer breaks for students last from June till the beginning of September while Christmas lasts from December till January. There is also one small break during November. You can clearly see that this could be a chat between friends who happen to be students but don’t have the same classes together. Those friends probably spend a lot of their free time together, which explains the lack of data during the breaks.
 
-**Days Chat B**
+**Days-Heatmap Chat B**
 
 {% asset_img heatmapB.png This is an example image %}
 
