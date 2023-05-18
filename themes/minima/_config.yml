@@ -7,7 +7,7 @@ owner: "I am Tim J. Kicker"
 email: tim.kicker@protonmail.com
 info: "A student and developer from Austria 🇦🇹"
 #description
-desc: "This is Minima, an undoubtedly simple and lightweight dark/light mode theme for Hexo. I created this from scratch using Skeleton CSS boilerplate. It only uses CSS and Vanilla JS, without using unnecessary third-party 'render-blocking' libraries! 😁"
+desc: "The purpose of this website is to give you a small overview about my projects, interests and opinions."
 
 #menu
 menu:
@@ -28,8 +28,8 @@ usercss: css/user.css
 
 # social profile at the footer/bottom
 footer: true
-placename: Earth
-placelink: https://en.wikipedia.org/wiki/Earth
+placename: opensource
+placelink: https://github.com/timkicker/timkicker.github.io
 github: https://github.com/timkicker
 linkedin: https://www.linkedin.com/in/tim-kicker-5438b1237/
 #twitter: https://twitter.com/adisaktijrs
