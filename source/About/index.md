@@ -16,9 +16,11 @@ And since I find it difficult to describe myself in sentences, I'll just throw s
 var tK = new Person("Tim","Kicker");
 
 tK.State = "Austria";
-tK.Interests = {"Linux","Selfhosting","Vinyl",
+tK.Interests = {"Linux",
+                "Selfhosting",
+                "Vinyl",
                 "Data curation",
-                "Privacy (Datnschützr würd ma sega)"};
+                "Privacy Guardance"};
 
 tK.FavGames = {"Half-Life 2",
                "Lego Universe",
@@ -27,7 +29,8 @@ tK.FavGames = {"Half-Life 2",
 
 tK.FavLang = "CSharp";
 tK.LeastFavLang = "JS";
-tK.FavColor = "Black (If that's a color??)";
+tK.FavColor = Color.Black; 
+            // if that's a real color?
 
 {% endcodeblock %}
 

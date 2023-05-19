@@ -29,10 +29,10 @@ usercss: css/user.css
 # social profile at the footer/bottom
 footer: true
 placename: opensource
-placelink: https://github.com/timkicker/timkicker.github.io
+placelink: https://git.kicker.dev/tim/tim.kicker.dev
 github: https://github.com/timkicker
-twitter: https://twitter.com/timjkicker/
 linkedin: https://www.linkedin.com/in/tim-kicker-5438b1237/
+twitter: https://twitter.com/timjkicker/
 #instagram: https://instagram.com/adisaktijrs
 
 # Misc

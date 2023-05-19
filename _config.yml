@@ -135,3 +135,8 @@ feed:
   icon: icon.png
   autodiscovery: true
   template:
+
+webPushNotification:
+  webpushrKey: "9167eef9a0b3b968adb4905dac3d8707"
+  webpushrAuthToken: "68905"
+  trackingCode: "BLrRztSWnClZ_Jjg50n_ziB6VHz0Wcp721ZbAl9So1t0DMi4ChlDXQ1Ta2wKVYebMjm1l2HQNdZBkaLwBeNoQ2Y"
