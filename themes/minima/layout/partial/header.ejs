@@ -27,7 +27,12 @@
 
   <div class="six columns ml-1">
     <h1 class="mt-2">
-      <%= theme.title %>
+      <div onclick=navigateHome()>Hello World.</div>
+      <script >
+        function navigateHome() {
+          window.location.replace('https://tim.kicker.dev');
+        }
+      </script>  
     </h1>
   </div>
 
