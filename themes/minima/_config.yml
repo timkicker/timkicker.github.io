@@ -43,7 +43,7 @@ switch_dark: 🌑
 # favicon
 favicon: /images/teddy-bear-apple.webp
 # thumbnail
-thumbnail: /images/teddy-bear-apple.webp
+thumbnail: /images/goldengate.jpg
 
 article:
   thumbnail: true
