@@ -39,5 +39,5 @@ It would be pretty frighting if I told you all our assumptions were correct. Rig
 
 Most people rely on the encryption of their messaging apps. If no one can read my data then I am safe, right? No. As we can see, an attacker does not need access to your communication in order to gather valuable information.
 
-Just keep that in mind. 
+If you want to look more into this topic, I'd recommend watching [Daniel Kriesel's 33c3 presentation](https://www.youtube.com/watch?v=-YpwsdRKt8Q).
 
