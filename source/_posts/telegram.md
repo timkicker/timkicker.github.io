@@ -2,6 +2,7 @@
 title: Should it really be Telegram?
 date: 2023-07-18 13:08:40
 thumbnail: telegram.jpg
+featured_image: telegram.jpg
 tags:
 ---
 
