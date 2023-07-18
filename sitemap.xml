@@ -2,9 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tim.kicker.dev/2023/07/18/telegram/</loc>
+    
+    <lastmod>2023-07-18</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tim.kicker.dev/2023/05/18/whatsapp-analyze/</loc>
     
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -13,7 +22,7 @@
   <url>
     <loc>https://tim.kicker.dev/About/</loc>
     
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-18</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22,7 +31,7 @@
 
   <url>
     <loc>https://tim.kicker.dev/</loc>
-    <lastmod>2023-07-17</lastmod>
+    <lastmod>2023-07-18</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
