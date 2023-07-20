@@ -6,9 +6,6 @@ featured_image: telegram.jpg
 tags:
 ---
 
-{% asset_img telegram.jpg "Stock image by Daniel Weibel" %}
-
-
 In recent years, WhatsApp has become one of the most popular messaging apps worldwide, connecting billions of people across the globe. However, beneath its seemingly user-friendly interface, there are growing concerns about privacy, security, and the impact of its corporate parent, Facebook. As a result, many users are seeking alternatives to WhatsApp that prioritize their digital well-being. However, it seems like most people are switching to another messenger that I'm pretty unsure about.
 
 ### It's open source. Right?
@@ -32,8 +29,6 @@ While Telegram offers end-to-end encryption in its "Secret Chats," this feature 
 There are many other great privacy respecting messenging apps which i'd rather use than telegram. I've listed my favorite ones below:
 
 [Signal](https://www.signal.org/de/): Known for its strong encryption, Signal offers end-to-end encryption by default for all conversations and has a focus on user privacy. Like I already said, it has undergone independent security audits and is widely regarded as one of the most secure messaging apps available.
-
-[Wire](https://wire.com/de/): Has a more modern looking user interface than Signal but also has ungergone security audits
 
 [Threema](https://threema.ch/de): Probably the OG because it's the oldest one. Also requires no phone number to sign up (!!!)
 
