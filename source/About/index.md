@@ -12,7 +12,7 @@ My name is Tim. As I already mentioned, I am a young student from Austria who al
 
 And since I find it difficult to describe myself in sentences, I'll just throw some buzzwords together
 
-(Also , there's an **[faq page](https://tim.kicker.dev/faq/)** btw.)
+(Also, i explained some stuff on my **[faq page](https://tim.kicker.dev/faq/)** btw.)
 
 {% codeblock lang:cs %}
 var tK = new Person("Tim","Kicker");
