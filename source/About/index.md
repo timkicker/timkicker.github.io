@@ -12,6 +12,8 @@ My name is Tim. As I already mentioned, I am a young student from Austria who al
 
 And since I find it difficult to describe myself in sentences, I'll just throw some buzzwords together
 
+(Also , there's an **[faq page](https://tim.kicker.dev/faq/)** btw.)
+
 {% codeblock lang:cs %}
 var tK = new Person("Tim","Kicker");
 
@@ -37,11 +39,15 @@ tK.FavColor = Color.Black;
 
 
 
-Feel free to leave me a message! (github, mail, blog-comment,...)
+Feel free to leave me a message! (comment, mail, twitter, github,...)
 
 c:
 
+
+
 <div class="text-center mb-4" id="webpushr-subscription-button" data-button-text="Subscribe" data-subscriber-count-text="Subscribers"  width="150" height="150" ></div>
+
+
 
 <!--
 <div class="text-center mb-4">
