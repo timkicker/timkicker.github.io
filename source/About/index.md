@@ -41,6 +41,8 @@ Feel free to leave me a message! (github, mail, blog-comment,...)
 
 c:
 
+<div class="text-center mb-4" id="webpushr-subscription-button" data-button-text="Subscribe" data-subscriber-count-text="Subscribers"  width="150" height="150" ></div>
+
 <!--
 <div class="text-center mb-4">
   <img src="https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg" alt="apictureofme" width="350" height="200" />
