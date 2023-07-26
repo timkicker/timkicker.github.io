@@ -19,6 +19,10 @@ LinkedIn: https://www.linkedin.com/in/tim-kicker/
 
 At the time of writing this, all blogs were completely done by myself.
 
+#### How can I support your blog?
+
+Share, share, share. If you really want to [buy me a coffe](https://www.buymeacoffee.com/timkicker) tho, i would be pretty glad.
+
  ####   Can I contribute to your blog as a guest writer?
 
 Sure! Just contact me and we can figure something out.
@@ -75,9 +79,6 @@ I do not use google analytics (even if some comments in the html state otherwise
 
 Of course!
 
-#### How can I support your blog?
-
-Share,share, share. Maybe one day I'll add donations. If you really want tho, you can just contact me <3
 
 #### Does your blog offer any free resources or downloads?
 
