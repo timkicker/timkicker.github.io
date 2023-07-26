@@ -55,6 +55,8 @@ I alwas catch myself rotating between the same few websites where all of them ha
 
 Today, the internet may have evolved into a more streamlined and efficient entity, but the nostalgia for the old days persists. As we navigate the modern digital landscape, let us not forget the vibrant, user-driven internet of the past, and strive to preserve the spirit of creativity, personalization, and community in our online interactions. After all, the true beauty of the internet lies in the hands of its users – both then and now.
 
+But not all hope is lost and there are some great gems hidden in the depth of the web, which we can enjoy and take an example from. We should let it inspire us to create new blogs and such sites by ourself to (maybe) revive this era of the internet.
+
 I've recently stumbled upon [Wiby](http://wiby.me), which is a search engine that only indexes Web1.0 sites. I've already spent hours surfing through those colorful pages.
 
 There's also a special webhoster called [Neocities](https://neocities.org/) where users can create retro looking pages and host them for free. (Even you could create one as well!)
