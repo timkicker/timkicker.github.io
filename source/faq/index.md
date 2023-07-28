@@ -17,11 +17,11 @@ LinkedIn: https://www.linkedin.com/in/tim-kicker/
 
 #### Are the articles on this blog written by a single author or multiple contributors?
 
-At the time of writing this, all blogs were completely done by myself.
+At the time of writing, all blogs were completely done by myself.
 
 #### How can I support your blog?
 
-Share, share, share. If you really want to [buy me a coffe](https://www.buymeacoffee.com/timkicker) tho, i would be pretty glad.
+Share, share, share. If you really want to [buy me a coffe](https://www.buymeacoffee.com/timkicker) tho, i'd be thankfull.
 
  ####   Can I contribute to your blog as a guest writer?
 
@@ -37,11 +37,11 @@ Right under the [archives](https://tim.kicker.dev/archives/).
 
    #### How do I subscribe to the blog to receive updates
 
-You can either subscribe my [RSS feed](https://tim.kicker.dev/rss) or activate browser notifications using this button ( I know, that one looks funny):
+You can either subscribe to my [RSS feed](https://tim.kicker.dev/rss) or activate browser notifications using this button ( I know, that one looks funny):
 
 <span id="webpushr-subscription-toggle-button"  width="150" height="150"  data-size="1.1" data-text-when-denied="You've blocked push notifications." data-tooltip-position="right" data-color="#2c7be5"></span>
 
-If you've blocked notifications from my blog, you won't see it though. (It should be the blue box above this text)
+If you've blocked notifications from my blog, you won't see it though. (It should be a blue box above this text)
 
 #### What topics does your Blog cover?
 
@@ -55,7 +55,7 @@ No. Pure freedome.
 
 #### Can I share articles from this blog on social media platforms?
 
-I would be reaaaaly happy if you did
+I would be reeaaaally happy if you did.
 
 #### Does your blog accept sponsored posts or collaborations?
 
@@ -79,11 +79,10 @@ I do not use google analytics (even if some comments in the html state otherwise
 
 Of course!
 
-
 #### Does your blog offer any free resources or downloads?
 
 It is entirely [open source](https://git.kicker.dev/timkicker/tim.kicker.dev).
 
 #### How can I unsubscribe from notifications
 
-Just look into your browser settings under "website notifications"
+Just look into your browser settings under "website notifications". c:
