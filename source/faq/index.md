@@ -73,7 +73,7 @@ Just through the normal contact details.
 
 Sadly not yet. I am currently collecting anonymous user data. You can view what's collected on [my stats-page](https://stats.kicker.dev/share/1Ui8dKfjsfQGAVs5/tim.kicker.dev).
 I also submitted this site to the google & bing developer consoles to measure my search engine rating.
-I do not use google analytics (even if some comments in the html state otherwise).
+It is important to mention, that i do not use google analytics (even if some comments in the html state otherwise). Additionally, i just recently moved from disqus to [isso](https://isso-comments.de/), which is a selfhosted and privacy respecting alternative.
 
 #### Can I request a specific topic to be covered in a future blog post?
 

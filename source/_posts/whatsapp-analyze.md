@@ -11,11 +11,12 @@ For example, let’s look at the two weekday-graphs of two different WhatsApp ch
 
 **Weekdays Chat A**
 
-{% asset_img hourchartA.png %}
+
+![](whatsapp-analyze/hourchartA.png)
 
 **Weekdays Chat B**
 
-{% asset_img hourchartB.png %}
+![](whatsapp-analyze/hourchartB.png)
 
 It is not that hard to figure out the difference between those two graphs. The number of daily messages in A is pretty stable except for Friday and Monday, which are two extremes. Maybe this could be about a friend group planning what they’re going to do on the weekend? The general quantity of messages is also lower as in figure B. The second chat also has a huge gap between Sunday and Saturday. Could this be a group chat related to work? Or is it someone close who happens to live in the same house?
 
@@ -24,14 +25,14 @@ You can see that it is possible to gather connections and create assumptions abo
 
 **Days-Heatmap Chat A**
 
-{% asset_img heatmapA.png This is an example image %}
+![](whatsapp-analyze/heatmapA.png)
 
 
 How interesting. We can see that the group is most active between the end of January till May and spikes again in October. If you happen to live in Austria, you probably know what that means. See, in most areas, the Austrian summer break for students lasts from June till the beginning of September while Christmas lasts from December to January. There is also one small break during November. You can clearly see that this could be a chat between friends who happen to be students but don’t have the same classes together. They probably spend a lot of their free time together, which explains the lack of data during the breaks. No one texts another person while they're sitting next to them... right?
 
 **Days-Heatmap Chat B**
 
-{% asset_img heatmapB.png This is an example image %}
+![](whatsapp-analyze/heatmapB.png)
 
 We can see that the amount of messages remains pretty stable. This could prove our theory of two people in the same household as true. Maybe the gap in August could be a planned vacation?
 

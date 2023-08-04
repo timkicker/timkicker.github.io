@@ -9,7 +9,7 @@ tags:
 
 In the 1980s, the idea of working remotely while traveling the world seemed like something straight out of a sci-fi novel. Yet, one man defied the norms of his time and embarked on a groundbreaking journey that would make him the first-ever digital nomad.
 
-{% asset_img Behemoth.jpg Steven K Roberts on the Behemoth %}
+![](digital-nomad/Behemoth.jpg)
 
 Steven K. Roberts and "Behemoth", taken from [Teknomadics](https://teknomadics.com/2011/10/the-original-digital-nomad/)
 
@@ -19,7 +19,7 @@ In 1983, [Steven K Roberts](https://twitter.com/nomadness) set out on an extraor
 
 Roberts' vision was to merge technology and nomadic living, proving that one could work remotely and stay connected with the world while exploring new horizons. As he traversed the American landscape, he chronicled his experiences and technological innovations in articles for ["Computer Currents" magazine](https://en.wikipedia.org/wiki/Computer_Currents), capturing the imaginations of readers everywhere.
 
-{% asset_img thumbnail.jpg Steven K Roberts on the Winnebiko 2 %}
+![](digital-nomad/thumbnail.jpg)
 
 Steven and his second bike, taken from [his website](https://microship.com/bikes/)
 
@@ -31,7 +31,7 @@ However, others viewed Roberts' quest with doubt and disbelief. The idea of work
 
 Nonetheless, the mixture of reactions, whether supportive or doubtful, only fueled Roberts' determination to prove that the concept of remote work and digital nomadism could be more than just a pipe dream.
 
-{% asset_img article.jpg Newspaper article %}
+![](digital-nomad/article.jpg)
 
 A newspaper article, photo by [Gizmo](https://gizmoeditor.blogspot.com/2020/09/catching-up-with-digital-nomad-steve.html)
 
@@ -41,7 +41,7 @@ So, what is Steven doing now? Well, after his groundbreaking bicycle journey acr
 
 Not only that, he is still working remotely from his home: A boat c:
 
-{% asset_img onboat.jpg Roberts on his boat %}
+![](digital-nomad/onboat.jpg)
 
 Roberts in his home, taken from [The Journal of San Juan Islands](https://www.sanjuanjournal.com/life/wizard-with-a-time-machine/)
 
@@ -51,7 +51,7 @@ Steven K Roberts' bold journey as the first digital nomad was truly something ne
 
 The internet revolution that followed in the 1990s and early 2000s further expanded the possibilities for remote work and nomadic living. Today, countless individuals around the globe are living the dream that Roberts dared to dream decades ago.
 
-{% asset_img farahead.jpg Far ahead of his time %}
+![](digital-nomad/farahead.jpg)
 
 Quote from Steven, far ahead of his time
 

@@ -8,7 +8,7 @@ tags:
 
 Do you remember the early days of the internet, when websites were a reflection of their creators unique personalities and passions? A time when the digital landscape was a canvas of vibrant colors and creativity, and the online community was the driving force behind its evolution? The internet of yesteryear was a place of genuine connection, diversity, and personal expression. The golden era when the web was a virtual wonderland, ruled by users rather than profit-driven corporations.
 
-{% asset_img internet.jpg internet %}
+![](beautiful-internet/internet.jpg)
 
 "Internet", an unknown 90's stock image
 
@@ -18,7 +18,7 @@ Back then, websites were more like digital diaries. Each website felt like stepp
 
 Moreover, the internet provided a platform for enthusiasts to come together and create niche communities. From fan forums to personal blogs, people found like-minded individuals who shared their passions, creating a sense of camaraderie that was truly special. 
 
-{% asset_img forum.png Melonland forum %}
+![](beautiful-internet/forum.png)
 
 The [Melonland](https://forum.melonland.net/) forum
 
@@ -29,7 +29,7 @@ Each blog was an explosion of colors and creativity. Every website had its own d
 
 Web pages were adorned with animated backgrounds, cursor trails, and unique icons. Yes, some might argue that it could get overwhelming at times, but it was just this boundless creativity that made every browsing experience a delightfully unpredictable adventure.
 
-{% asset_img gifypet.png gifypet %}
+![](beautiful-internet/gifypet.jpg)
 
 [Gifypet](https://gifypet.neocities.org/), a gif pet creation tool (??!!)
 
@@ -39,7 +39,7 @@ In those days, the internet was driven by its users. Their sites were designed t
 
 The online community was a powerful force, shaping the internet's evolution through collaborative efforts and shared feedback. User-generated content, such as forums, chat rooms, and guest books, encouraged open discussions and fostered a sense of belonging in the digital realm.
 
-{% asset_img blog-color.png Old blog %}
+![](beautiful-internet/blog-color.png)
 
 Blog by [Bryce](https://combatbaby.neocities.org/)
 
