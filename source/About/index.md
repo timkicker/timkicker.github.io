@@ -12,7 +12,7 @@ My name is Tim. As I already mentioned, I am a young student from Austria who al
 
 And since I find it difficult to describe myself in sentences, I'll just throw some buzzwords together
 
-(Also, i explained some stuff on my **[faq page](https://tim.kicker.dev/faq/)** btw.)
+
 
 {% codeblock lang:cs %}
 var tK = new Person("Tim","Kicker");
@@ -36,6 +36,7 @@ tK.FavColor = Color.Black;
 
 {% endcodeblock %}
 
+I explained some stuff on my [faq page](https://tim.kicker.dev/faq/) and if you want to read my stuff without javascript, please take a look at the [**alternate frontend**](https://blog.kicker.dev).
 
 
 Keep in mind: [You can always support me, if you want to!](https://www.buymeacoffee.com/timkicker)

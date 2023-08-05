@@ -29,7 +29,7 @@ Each blog was an explosion of colors and creativity. Every website had its own d
 
 Web pages were adorned with animated backgrounds, cursor trails, and unique icons. Yes, some might argue that it could get overwhelming at times, but it was just this boundless creativity that made every browsing experience a delightfully unpredictable adventure.
 
-![](beautiful-internet/gifypet.jpg)
+![](beautiful-internet/gifypet.png)
 
 [Gifypet](https://gifypet.neocities.org/), a gif pet creation tool (??!!)
 
@@ -63,4 +63,6 @@ There's also a special webhoster called [Neocities](https://neocities.org/) wher
 
 A [couple of imageboards](https://dollchan.net/chanlist/chanlist-en.html) still exist, who remind us of a different time. You may not like it, but even [4chan](https://4chan.org) is such a place and i am happy that dumpster is still around.
 
-I'm also currently working on a Web1.0 version of my blog. I'll probably update this entry and link to it, once it's finished.
+I'm also currently working on a Web1.0 version of my blog. ~~I'll probably update this entry and link to it, once it's finished.~~
+
+[**Here it is!**](https://blog.kicker.dev)
