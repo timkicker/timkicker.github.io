@@ -8,9 +8,9 @@ date: 2023-05-17 20:35:10
 
 Hi! 
 
-My name is Tim. As I already mentioned, I am a young student from Austria who also happens to have a great passion for programming. But there are many other topics which I can't stop talking about. 
+My name is Tim. As I already mentioned, I am a young student from Austria who also happens to have a great passion for programming. But there are many other topics that I can't stop talking about. 
 
-And since I find it difficult to describe myself in sentences, I'll just throw some buzzwords together
+And since I find it difficult to describe myself in sentences, I'll just throw some buzzwords together:
 
 
 
