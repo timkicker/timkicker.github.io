@@ -36,7 +36,7 @@ tK.FavColor = Color.Black;
 
 {% endcodeblock %}
 
-I explained some stuff on my [faq page](https://tim.kicker.dev/faq/) and if you want to read my stuff without javascript, please take a look at the [**alternate frontend**](https://blog.kicker.dev).
+I explained some things on my [faq page](https://tim.kicker.dev/faq/) and if you want to read my stuff without javascript, please take a look at the [**alternate frontend**](https://blog.kicker.dev).
 
 
 Keep in mind: [You can always support me, if you want to!](https://www.buymeacoffee.com/timkicker)
@@ -45,9 +45,17 @@ Also please feel free to leave me a message! (comment, mail, twitter, github,...
 
 c:
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/botchGNU/botchGNU/master/generated/languages.svg" />
+</p>
+
+<p align="center">
+  <div class="text-center mb-4" id="webpushr-subscription-button" data-button-text="Subscribe" data-subscriber-count-text="Subscribers"  width="150" height="150" ></div>
+</p>
 
 
-<div class="text-center mb-4" id="webpushr-subscription-button" data-button-text="Subscribe" data-subscriber-count-text="Subscribers"  width="150" height="150" ></div>
+
+
 
 
 
