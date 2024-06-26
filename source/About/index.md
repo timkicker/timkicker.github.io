@@ -8,11 +8,11 @@ date: 2023-05-17 20:35:10
 
 Hi! 
 
-My name is Tim. As I already mentioned, I am a young student from Austria who also happens to have a great passion for programming. But there are many other topics that I can't stop talking about. 
+Hi there!
 
-And since I find it difficult to describe myself in sentences, I'll just throw some buzzwords together:
+I'm Tim, a young student from Austria with an insatiable passion for programming. But that's not all—I'm also enthusiastic about many other topics that I love to share and discuss.
 
-
+Since describing myself with sentences can be tricky, let's break it down with some code:
 
 {% codeblock lang:cs %}
 var tK = new Person("Tim","Kicker");
@@ -30,19 +30,20 @@ tK.FavGames = {"Half-Life 2",
                "Portal 2"};
 
 tK.FavLang = "CSharp";
-tK.LeastFavLang = "JS";
 tK.FavColor = Color.Black; 
             // if that's a real color?
 
 {% endcodeblock %}
 
-I explained some things on my [faq page](https://tim.kicker.dev/faq/) and if you want to read my stuff without javascript, please take a look at the [**alternate frontend**](https://blog.kicker.dev).
+I've answered some common questions on my [FAQ page](https://tim.kicker.dev/faq/). If you prefer to read my content without JavaScript, check out the [**alternate frontend**](https://blog.kicker.dev).
 
+Feel like supporting me? [Buy me a coffee!](https://www.buymeacoffee.com/timkicker)
 
-Keep in mind: [You can always support me, if you want to!](https://www.buymeacoffee.com/timkicker)
+Don't hesitate to reach out—I'd love to hear from you! Leave a comment, send an email, or connect with me on Twitter or GitHub.
 
-Also please feel free to leave me a message! (comment, mail, twitter, github,...)
+Happy browsing!
 
+Tim
 c:
 
 <p align="center">
