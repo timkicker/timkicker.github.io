@@ -7,7 +7,7 @@ tags:
 ---
 
 
-I've been running my own server for about 2.5 years now and have gained a lot of experience in the process. Since a friend of mine asked about my setup and some tips, I thought it would be best to publish another blog post on this topic. This is one of my more tech-savvy posts, so feel free to skip it if you're not interested (as if I have any say in this...). I'll keep this entry updated as long as I'm willing to.
+I've been running my own server for about 2.5 years now and have gained a lot of experience in the process. Since a friend of mine asked about my setup and some tipps, I thought it would be best to publish another blog post on this topic. This is one of my more tech-savvy posts, so feel free to skip it if you're not interested (as if I have any say in this...). I'll keep this entry updated as long as I'm willing to. VPN-Section is coming soon.
 
 
 ![](./the-selfhosting-experience/wondering.png)
@@ -228,11 +228,7 @@ Like Bluemap but in 2D
 - Spend some time planning. Create a to-do list, plan when and how you want to work on it, and create a file tree. Here's mine, for example:
 - Only use the root account if you have to. Create a separate one for all sorts of things, which will increase your security a ton.
 - Spend a lot of time on security. I know you just got your system to work after some hard days, and you are not motivated anymore in the slightest to upgrade your security, but please do it. I know you'll probably not get hacked or something like that, but the chance still exists. Take a look into topics like Firewalls, Cloudflare, VPN, etc.
-- Do not get into shady topics like piracy. You know it's illegal! I know nothing will happen if I use a VPN with a killswitch, but still!! >:=(  I'll link you some sources regarding this topic so you can avoid these corners:
-  - [Piracy Wiki](https://piracy.now.sh/): Very evil
-  - [Windscribe](https://windscribe.com/yo/4123svm9): A great priced VPN. You may not avoid this (i know wrong location in this post) but it still can be used to mask your identity regarding piracy. I am not partnered with this company in any way as, this is just my affiliate link which'll grant you some extra bandwith.
-  - [Torrentleech](Torrentleech.org): A widely used private-tracker: Extremely evil :(
-  - [1337x](1337x.to): A free tracker: Also really evil because it's publicly accessible
+
 
 
 
