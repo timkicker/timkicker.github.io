@@ -152,9 +152,9 @@ Used for sending and receiving messages in real-time via a RESTful API. It allow
 
 ![](./the-selfhosting-experience/indexers.png)
 
-{% blockquote Digital Piracy is theft! https://tim.kicker.dev/digital-piracy%}
+{% blockquote digital piracy is theft! https://tim.kicker.dev/digital-piracy%}
 
-This section is entirely fictional. The following services mentioned are not, and will never be, used by me, as they operate in violation of copyright laws. I do not condone such actions and strongly discourage anyone from attempting them. This fictional segment is intended solely for stylistic purposes.
+The listed applications are hosted by me, but they are non-functional as no legal trackers for media sources were found. This fictional segment is included purely for stylistic purposes. I strongly advise against using illegal sources, as they violate copyright laws. I do not condone or support such actions and urge everyone to refrain from engaging in them.
 
 {% endblockquote %}
 
@@ -228,7 +228,6 @@ Like Bluemap but in 2D
 - Spend some time planning. Create a to-do list, plan when and how you want to work on it, and create a file tree. Here's mine, for example:
 - Only use the root account if you have to. Create a separate one for all sorts of things, which will increase your security a ton.
 - Spend a lot of time on security. I know you just got your system to work after some hard days, and you are not motivated anymore in the slightest to upgrade your security, but please do it. I know you'll probably not get hacked or something like that, but the chance still exists. Take a look into topics like Firewalls, Cloudflare, VPN, etc.
-
 
 
 
