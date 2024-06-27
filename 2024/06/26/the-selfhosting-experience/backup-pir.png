@@ -1,0 +1,5 @@
+- Do not get into shady topics like piracy. You know it's illegal! I know nothing will happen if I use a VPN with a killswitch, but still!! >:=(  I'll link you some sources regarding this topic so you can avoid these corners:
+  - [Piracy Wiki](https://piracy.now.sh/): Very evil
+  - [Windscribe](https://windscribe.com/yo/4123svm9): A great priced VPN. You may not avoid this (i know wrong location in this post) but it still can be used to mask your identity regarding piracy. I am not partnered with this company in any way as, this is just my affiliate link which'll grant you some extra bandwith.
+  - [Torrentleech](Torrentleech.org): A widely used private-tracker: Extremely evil :(
+  - [1337x](1337x.to): A free tracker: Also really evil because it's publicly accessible

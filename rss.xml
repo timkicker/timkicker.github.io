@@ -5,24 +5,8 @@
         <link>https://tim.kicker.dev</link>
         <description>Personal website of Tim Kicker</description>
         <language>en</language>
-        <pubDate>Wed, 26 Jun 2024 18:38:57 +0000</pubDate>
-        <lastBuildDate>Wed, 26 Jun 2024 18:38:57 +0000</lastBuildDate>
-        <item>
-            <guid isPermalink="true">https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/backup1/</guid>
-            <title></title>
-            <link>https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/backup1/</link>
-            <pubDate>Wed, 26 Jun 2024 18:38:57 +0000</pubDate>
-            <description><![CDATA[ &lt;ul&gt;
-&lt;li&gt;Do not get into shady topics like piracy. You know it’s illegal! I know nothing will happen if I use a VPN with a killswitch, but still!! &amp;gt;:&amp;#x3D;(  I’ll link you some sources regarding this topic so you can avoid these corners:&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://piracy.now.sh/&#34;&gt;Piracy Wiki&lt;/a&gt;: Very evil&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://windscribe.com/yo/4123svm9&#34;&gt;Windscribe&lt;/a&gt;: A great priced VPN. You may not avoid this (i know wrong location in this post) but it still can be used to mask your identity regarding piracy. I am not partnered with this company in any way as, this is just my affiliate link which’ll grant you some extra bandwith.&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;Torrentleech.org&#34;&gt;Torrentleech&lt;/a&gt;: A widely used private-tracker: Extremely evil :(&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;1337x.to&#34;&gt;1337x&lt;/a&gt;: A free tracker: Also really evil because it’s publicly accessible&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/li&gt;
-&lt;/ul&gt;
- ]]></description>
-        </item>
+        <pubDate>Wed, 26 Jun 2024 18:20:59 +0000</pubDate>
+        <lastBuildDate>Wed, 26 Jun 2024 18:20:59 +0000</lastBuildDate>
         <item>
             <guid isPermalink="true">https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/</guid>
             <title>The Selfhosting Experience</title>

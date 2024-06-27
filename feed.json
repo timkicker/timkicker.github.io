@@ -5,14 +5,6 @@
     "home_page_url": "https://tim.kicker.dev",
     "items": [
         {
-            "id": "https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/backup1/",
-            "url": "https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/backup1/",
-            "title": "",
-            "date_published": "2024-06-26T18:38:57.964Z",
-            "content_html": "<ul>\n<li>Do not get into shady topics like piracy. You know it’s illegal! I know nothing will happen if I use a VPN with a killswitch, but still!! &gt;:&#x3D;(  I’ll link you some sources regarding this topic so you can avoid these corners:<ul>\n<li><a href=\"https://piracy.now.sh/\">Piracy Wiki</a>: Very evil</li>\n<li><a href=\"https://windscribe.com/yo/4123svm9\">Windscribe</a>: A great priced VPN. You may not avoid this (i know wrong location in this post) but it still can be used to mask your identity regarding piracy. I am not partnered with this company in any way as, this is just my affiliate link which’ll grant you some extra bandwith.</li>\n<li><a href=\"Torrentleech.org\">Torrentleech</a>: A widely used private-tracker: Extremely evil :(</li>\n<li><a href=\"1337x.to\">1337x</a>: A free tracker: Also really evil because it’s publicly accessible</li>\n</ul>\n</li>\n</ul>\n",
-            "tags": []
-        },
-        {
             "id": "https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/",
             "url": "https://tim.kicker.dev/2024/06/26/the-selfhosting-experience/",
             "title": "The Selfhosting Experience",
