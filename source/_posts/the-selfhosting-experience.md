@@ -7,7 +7,7 @@ tags:
 ---
 
 
-I've been running my own server for about 2.5 years now and have gained a lot of experience in the process. Since a friend of mine asked about my setup and some tipps, I thought it would be best to publish another blog post on this topic. This is one of my more tech-savvy posts, so feel free to skip it if you're not interested (as if I have any say in this...). I'll keep this entry updated as long as I'm willing to. VPN-Section is coming soon.
+I've been running my own server for about 2.5 years now and have gained a lot of experience in the process. Since a friend of mine asked about my setup and some tipps, I thought it would be best to publish another blog post on this topic. This is one of my more tech-savvy posts, so feel free to skip it if you're not interested (as if I have any say in this...). I'll keep this entry updated as long as I'm willing to. 
 
 
 ![](./the-selfhosting-experience/wondering.png)
@@ -41,6 +41,8 @@ You'll gain a considerable amount of technical knowledge, but you'll also need s
 
 Depending on your situation, there may be a lot of initial costs for the hardware you'll use. I was lucky enough to use my "old" gaming PC since I grew out of my gaming phase a long time ago. I know it isn't energy-efficient at all, but it works for now (you'll encounter this situation a lot during this or similar software projects).
 
+You may also be able to start of pretty cheap for most projects. Like you could buy a Raspi Zero for about [17 Euros nowadays](https://buyzero.de/collections/raspberry-pi-zero-kits/products/raspberry-pi-zero-w) when starting off. It's not the most powerfull device but you'll be able to host a few decent applications.
+
 
 
 ## My setup
@@ -52,6 +54,8 @@ I am currently using Ubuntu LTS, as it's a pretty reliable operating system for 
 I chose to run all my applications using [Docker](https://www.docker.com/why-docker/) because I think it's the best way to run server applications. Docker allows us to package applications into containers, each containing the application code, runtime, libraries, and dependencies needed to run the application consistently across different environments.
 
 Since most self-proclaimed administrators choose to set up a dashboard to maintain a clear perspective on my applications, I opted not to include things like a search engine or third-party websites such as some social media sites, since I only use [this dashboard](https://github.com/bastienwirtz/homer) for navigation and nothing else.
+
+For maintainance and security, I also chose to host a Wireguard-VPN on a seperate device, which allows me to access my server remotely without going directly over the internet. This improves our security drastically while also offering some way of maintainance should the main-machine go offline.
 
 
 ## Media

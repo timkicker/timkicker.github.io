@@ -1,6 +1,7 @@
 ---
 title: The first digital nomad
-featured_image: behemoth.jpg
+thumbnail: /digital-nomad/behemoth.jpg
+featured_image: /digital-nomad/behemoth.jpg
 date: 2023-08-02 11:48:32
 tags:
 ---
