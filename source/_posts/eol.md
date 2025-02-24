@@ -1,5 +1,5 @@
 ---
-title: The Ethical Open License (EOL) - Rethinking Open Source Responsibility
+title: Rethinking Open Source Responsibility (EOL)
 thumbnail: >-
   https://socialify.git.ci/timkicker/eol/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Ftimkicker%2FEOL%2Frefs%2Fheads%2Fmain%2Ffile_with_handshake.png&name=1&owner=1&stargazers=1&theme=Light
 featured_image: >-
@@ -9,11 +9,13 @@ tags:
 ---
 
 
-For a while now, I’ve been thinking about something that doesn’t get talked about enough in open source: **what happens when your code is used for something you fundamentally disagree with?**
+For a while now, I’ve been playing with a thought experiment: **what happens when your code is used for something you fundamentally disagree with?**
 
-We celebrate open-source as this great force for collaboration, and in many ways, it is. But there’s a gap in how we think about responsibility. Right now, if you release software under a standard open-source license, you’re essentially saying: "Here, take this. Use it for whatever you want." And that’s fine, until you realize that "whatever you want" includes things like mass surveillance, AI-driven discrimination, child exploitation networks, or even tools used to facilitate human trafficking.
+Open source is great. It encourages collaboration, innovation, and accessibility. But what it doesn’t do is ask whether there should be *any* limits on how software is used. Right now, if you release something under a permissive license, you’re essentially saying: "Here, take this. Use it for whatever you want." And sometimes, that "whatever" includes mass surveillance, AI-driven discrimination, or worse.
 
-Some people argue that this is just the price of open-source -- once you put code out there, it’s out of your hands. But I started asking myself: **does it have to be?**
+Some people argue that this is just the price of open-source. Once you put code out there, it’s out of your hands. But I started wondering: **does it have to be?**
+
+*(Fun fact: Apparently, just asking this question is enough to get your post removed from certain open-source communities. The conversation must be *very* settled, right?)*
 
 ![](https://socialify.git.ci/timkicker/eol/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Ftimkicker%2FEOL%2Frefs%2Fheads%2Fmain%2Ffile_with_handshake.png&name=1&owner=1&stargazers=1&theme=Light)
 
@@ -21,32 +23,34 @@ Some people argue that this is just the price of open-source -- once you put cod
 
 ## What Is the Ethical Open License (EOL)?
 
-The **Ethical Open License (EOL)** is an attempt to build a licensing model that allows for openness while setting some fundamental ethical limitations. It’s not about restricting everyday users or preventing innovation. It’s about setting clear boundaries on how software can and can’t be used.
+The **Ethical Open License (EOL)** is a hypothetical licensing model that explores whether open-source can include ethical restrictions. This isn’t about restricting everyday users or stifling innovation. It’s about setting clear boundaries on how software *shouldn’t* be used.
 
-Under EOL, your software for example **cannot** be used for:
+Under EOL, your software **cannot** be used for:
 
-- **Mass surveillance**  --  No large-scale tracking, unauthorized data collection, or government spying programs.
-- **Autonomous weapons**  --  Your code should not end up in military AI systems or automated combat technology.
-- **Discriminatory AI**  --  No training models that reinforce bias or make decisions based on race, gender, or social class.
-- **Exploitation networks**  --  No use in systems that facilitate child abuse, human trafficking, or other crimes that exploit vulnerable individuals.
+- **Mass surveillance** – No large-scale tracking, unauthorized data collection, or government spying programs.
+- **Autonomous weapons** – Your code should not end up in military AI systems or automated combat technology.
+- **Discriminatory AI** – No training models that reinforce bias or make decisions based on race, gender, or social class.
+- **Exploitation networks** – No use in systems that facilitate child abuse, human trafficking, or other crimes that exploit vulnerable individuals.
 
-This is about recognizing that technology has real-world consequences and that developers should have a say in how their work is applied.
+This raises a fair question: *who decides what’s ethical?* That’s something that would need clearer definition (which, to be fair, has been one of the biggest criticisms). But ignoring the question entirely doesn’t seem like the best answer either.
 
 ---
 
-## How Does EOL Work?
+## How Does EOL Work? (If It Did Work?)
 
-EOL follows a familiar open-source structure, but with added restrictions on unethical use. It grants users the right to:
+EOL would follow a familiar open-source structure, but with added restrictions on unethical use. It would grant users the right to:
 
 - Use, modify, and distribute the software freely.
 - Contribute to the project under the same ethical guidelines.
 - Fork or create derivatives as long as they comply with the license terms.
 
-However, if an entity is found to be violating the ethical clauses of the license, they **lose their right to use the software**. This is meant to create a tangible consequence for misuse while keeping the spirit of open-source collaboration intact.
+However, if an entity is found to be violating the ethical clauses of the license, they **lose their right to use the software**. This would be enforced through a **defined process**, ideally involving an independent review board (if one could exist without being a bureaucratic nightmare). 
 
 To avoid ambiguity, EOL also provides a **defined process** for addressing violations. This would ideally involve an independent review process where complaints can be filed, reviewed, and addressed based on available evidence.
 
 If a violation is confirmed, the offending party is expected to cease the unethical use immediately or risk losing access to the software under the terms of the license.
+
+Of course, enforceability is a huge concern -- another major critique. If bad actors don’t follow the law, why would they follow a license? That’s a fair point, but licensing isn’t always about stopping the worst offenders. Sometimes, it’s about setting expectations and norms.
 
 ---
 
@@ -101,8 +105,11 @@ Funds collected through royalties can be allocated toward:
 This model helps create a balance between free access for non-commercial use and fair compensation for commercial beneficiaries, ensuring that ethical oversight remains feasible without burdening smaller developers or independent contributors.
 
 ---
+## The Biggest Pushbacks 
 
-## "Isn’t open-source supposed to be neutral?"
+*(And Why They Might Be Right)*
+
+### "Isn’t open-source supposed to be neutral?"
 
 The idea has always been that developers provide the tools, and it’s not their job to dictate how those tools are used.
 
@@ -110,20 +117,37 @@ But software isn’t neutral. A powerful AI model isn’t just some abstract too
 
 That’s where EOL comes in -- not as a perfect solution, but as a proposal for a different way of thinking about open-source responsibility.
 
+### "This isn’t open source. Stop pretending it is."
+
+Okay, fair. It doesn’t fit the OSI definition, which says that open-source software must allow unrestricted use. If *that’s* the definition you go by, then sure, EOL isn’t open source. But if you see open source as something that can evolve, it’s at least worth talking about.
+
+### "Ethics are subjective. You can’t put them in a license."
+
+Completely true. What’s considered ethical today might not be in 50 years. But laws and policies shift too, and we don’t abandon them just because they’re hard to define. The challenge isn’t that ethics change—it’s how to define them in a way that works.
+
+### "Nobody would use this because it’s legally vague."
+
+Honestly, that’s a solid argument. If a license introduces too much risk, companies won’t touch it. If something like EOL were to work, it would need *very* clear definitions and solid legal backing. Right now, it’s more of a conversation starter than a practical tool.
+
+### "Bad actors won’t follow the license anyway."
+
+True again. If someone wants to build something awful, they won’t stop because a license tells them not to. But a license isn’t just about enforcement—it’s about setting a precedent. Big companies *do* care about compliance, and even if this wouldn’t stop everything, it might influence how some organizations think about responsibility.
+
 ---
 
-## EOL is Now on GitHub
+## So… Is This a Good Idea? Probably Not. But It's Worth Discussing.
 
-The **Ethical Open License (EOL) 1.0** is now up on GitHub. It’s not a final product. It’s an open discussion. If you’re interested, check it out, share your thoughts, and let’s figure out if this is something that could work.
+I’m not saying EOL is *the* answer. I’m not even saying it’s *a* good answer. What I *am* saying is that open-source has a responsibility problem that’s at least worth thinking about. If the reaction is just "shut up, open source is freedom," then maybe the conversation is overdue. 
+
+The **Ethical Open License (EOL)** is up on GitHub. It’s not a finished product. It’s an open discussion. If you’re interested, check it out and let me know your thoughts.
 
 👉 [github.com/timkicker/EOL](https://github.com/timkicker/EOL)
 
-Whether this turns into something practical or just sparks a broader conversation, I’d call that a win.
-
+Whether this turns into something real or just sparks a broader conversation, I’ll count that as a win.
 ---
 
 
-I don’t expect EOL to replace MIT, GPL, or any of the widely used licenses. But I do think it’s time we stop pretending that software is neutral.
+I don’t see EOL as a replacement for MIT, GPL, or other widely adopted licenses. But I do think it’s worth questioning the idea that software is inherently neutral.
 
-The way our code is used **matters**. And if we, as developers, have the ability to set ethical boundaries, why shouldn’t we?
+How our code gets used matters. And if we, as developers, have the ability to set ethical boundaries, why wouldn’t we consider it?
 
