@@ -15,7 +15,7 @@ Open source is great. It encourages collaboration, innovation, and accessibility
 
 Some people argue that this is just the price of open-source. Once you put code out there, it’s out of your hands. But I started wondering: **does it have to be?**
 
-*(Fun fact: Apparently, just asking this question is enough to get your post removed from certain open-source communities. The conversation must be *very* settled, right?)*
+*(Fun fact: Apparently, just asking this question is enough to get your [post removed from certain open-source communities](https://www.reddit.com/r/opensource/comments/1ix38w4/comment/mej7eu5/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button). The conversation must be *very* settled, right?)*
 
 ![](https://socialify.git.ci/timkicker/eol/image?language=1&logo=https%3A%2F%2Fraw.githubusercontent.com%2Ftimkicker%2FEOL%2Frefs%2Fheads%2Fmain%2Ffile_with_handshake.png&name=1&owner=1&stargazers=1&theme=Light)
 
