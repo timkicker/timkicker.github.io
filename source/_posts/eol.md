@@ -144,6 +144,7 @@ The **Ethical Open License (EOL)** is up on GitHub. It’s not a finished produc
 👉 [github.com/timkicker/EOL](https://github.com/timkicker/EOL)
 
 Whether this turns into something real or just sparks a broader conversation, I’ll count that as a win.
+
 ---
 
 
