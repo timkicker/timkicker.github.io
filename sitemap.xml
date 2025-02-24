@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://tim.kicker.dev/digital-piracy/</loc>
+    
+    <lastmod>2025-02-24</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://tim.kicker.dev/campus-sulz-frueher/</loc>
     
     <lastmod>2025-02-24</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://tim.kicker.dev/faq/</loc>
-    
-    <lastmod>2025-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://tim.kicker.dev/digital-piracy/</loc>
     
     <lastmod>2025-02-24</lastmod>
     
